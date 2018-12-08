@@ -1,2 +1,4 @@
 .gitsecret/keys/random_seed
 .env
+__pycache__
+.DS_Store
